@@ -1,4 +1,4 @@
-# AUTHOR: _OAKSOFT_
+# AUTHOR: _Tobechukwu Paschal_
 
 **check** /controler/airtimetopup.php form line 162 for **PAYSTACK SUPER TRANSFER OFFICIAL INTEGRATION**
 check **auto_config\disable_otp_for_transfers.php, auto_config\enable_otp_for_transfers.php and auto_config\finalize_disable_otp_for_transfers.php** for some paystack autoconfig OTP setups...
